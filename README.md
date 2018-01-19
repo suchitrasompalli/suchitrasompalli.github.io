@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Welcome to My Page.
 
-You can use the [editor on GitHub](https://github.com/suchitrasompalli/suchitrasompalli.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## PROJECT EXPERIENCE
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Item Catalog Website - [suchitrasompalli.github.io/itemcatalog] January 2018
 
-### Markdown
+### Movie Trailer Website - [suchitrasompalli.github.io/fullstack-nanodegree-movietrailer] October 2017
+- A web page allowing visitors to review movies and watch the trailers.
+- Built server side code in Python to store a list of favorite movies, box art imagery and a movie trailer URL.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Portfolio Website - [suchitrasompalli.github.io/fullstack-nanodegree-portfolio] November 2017
+- A responsive website that will display images, descriptions and links to several portfolio projects.
+- Coded using HTML, CSS, Bootstrap based off a design mockup provided as a pdf file.
+- Used Bootstrap and media queries to make sure it fits on small screens.
 
-```markdown
-Syntax highlighted code block
+## WORK EXPERIENCE
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suchitrasompalli/suchitrasompalli.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
