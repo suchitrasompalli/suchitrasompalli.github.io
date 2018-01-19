@@ -20,11 +20,23 @@ categories.
 
 ## WORK EXPERIENCE
 
+MedSynergies – Software Engineer, Dallas, TX
+Liberty Mutual – Software Engineer Boston, MA
+Lexalytics Inc  - Software Engineer Boston, MA 
 
+## TECHNICAL SKILLS
 
+	Languages:  Java, SQL, JavaScript, Python, HTML5, CSS3
+	Web Development:  JSP, Java Servlets, HTML, XML, XSL, DOM, CSS, ICEfaces, RichFaces, Struts,  JavaScript, Ajax, EJB 3.0,
+                    Hibernate, Spring, JUnit, AngularJS,  Android, JSON, SOAP, REST
+	Databases: Oracle 11g, DB2, Sql Server, MySQL, SQLite
+	Application Servers: IBM WebSphere, Tomcat, WebLogic, Jboss, Wildfly
+	Tools: Subversion, ClearCase, CVS, Eclipse, Git, GitHub, Android Studio
 
-**Bold** and _Italic_
+## EDUCATION/CERTIFICATION
 
-[Link](url) and ![Image](src)
-```
+	University of Massachusetts in Boston – Computer Science, MS
+	Udacity - Completing Full Stack Web Developer Nanodegree
+	Sun Certified Java Programmer and Sun Certified Web Component Developer
+
 
