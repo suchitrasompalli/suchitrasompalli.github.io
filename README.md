@@ -2,7 +2,7 @@
 
 ## PROJECT EXPERIENCE
 
-### Item Catalog Website - [suchitrasompalli.github.io/itemcatalog] January 2018
+### Item Catalog Website - [suchitrasompalli.github.io/itemcatalog](https://suchitrasompalli.github.io/fullstack-nanodegree-movietrailer/) January 2018
 
 ### Movie Trailer Website - [suchitrasompalli.github.io/fullstack-nanodegree-movietrailer] October 2017
 - A web page allowing visitors to review movies and watch the trailers.
