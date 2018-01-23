@@ -11,7 +11,7 @@ categories.
 
 ### [Portfolio Website](https://suchitrasompalli.github.io/fullstack-nanodegree-portfolio/) November 2017
 - A responsive website that will display images, descriptions and links to several portfolio projects.
-- Coded using HTML, CSS, Bootstrap based off a design mockup provided as a pdf file.
+- Coded using HTML, CSS, Bootstrap based on a design mockup provided as a pdf file.
 - Used Bootstrap and media queries to make sure it fits on small screens.
 
 ### [Movie Trailer Website](https://suchitrasompalli.github.io/fullstack-nanodegree-movietrailer/) October 2017
