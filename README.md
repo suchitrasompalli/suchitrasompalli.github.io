@@ -2,7 +2,7 @@
 
 ## PROJECT EXPERIENCE
 
-### [Item Catalog Website](https://suchitrasompalli.github.io/fullstack-nanodegree-movietrailer/) January 2018
+### [Item Catalog Website](https://suchitrasompalli.github.io/fullstack-nanodegree-item-catalog/) January 2018
 - The Item Catalog web application provides a list of items within a variety of
 categories. 
 - It also provides a user registration and authentication system by implementing third-party OAuth authentication using google accounts.
