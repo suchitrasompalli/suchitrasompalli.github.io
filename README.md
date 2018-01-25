@@ -18,6 +18,9 @@ categories.
 - A web page allowing visitors to review movies and watch the trailers.
 - Built server side code in Python to store a list of favorite movies, box art imagery and a movie trailer URL.
 
+### [Log Analysis Tool](https://suchitrasompalli.github.io/log-analysis/) October 2017
+- Applied SQL skills to a reporting tool that summarizes data from a large database.
+
 ## WORK EXPERIENCE
 
 MedSynergies – Software Engineer, Dallas, TX
