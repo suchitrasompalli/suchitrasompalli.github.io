@@ -2,12 +2,17 @@
 
 ## PROJECT EXPERIENCE
 
-### [Item Catalog Website](https://suchitrasompalli.github.io/item-catalog/) January 2018
+### [Item Catalog Website](https://suchitrasompalli.github.io/item-catalog/) April 2018
 - The Item Catalog web application provides a list of items within a variety of
-categories. 
+categories. Hosted the application on Ubunu Linux Server instance on Amazon Lightsail.
 - It also provides a user registration and authentication system by implementing third-party OAuth authentication using google accounts.
 - Registered users will have the ability to post, edit and delete their own items.
 - The project implements a JSON endpoint that serves the same information as displayed in the HTML endpoints for an arbitrary item in the catalog.
+
+### [Neighborhood Map](https://suchitrasompalli.github.io/neighborhood-map/) March 2018
+- A single page application featuring my neighborhood with highlighted locations shown using markers.
+- Third party data (Google Maps Api, FourSquare Api) were used to draw map and get details on a location like phone numbers, address     etc. 
+- On the front end Knockout.js was used for search and filtering of locations.
 
 ### [Portfolio Website](https://suchitrasompalli.github.io/fullstack-nanodegree-portfolio/) November 2017
 - A responsive website that will display images, descriptions and links to several portfolio projects.
