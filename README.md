@@ -1,7 +1,9 @@
 # Welcome to My Page.
 
 ## PROJECT EXPERIENCE
-### [Who is Website](https://suchitrasompalli.github.io/wat-test-project//) August 2018
+### [Match the name!](https://suchitrasompalli.github.io/wat-test-project//) August 2018
+- Play a game to match a name with a employee.
+- Javascript with Knockout.js, JQuery and Bootstrap.
 
 ### [Item Catalog Website](https://suchitrasompalli.github.io/item-catalog/) April 2018
 - The Item Catalog web application provides a list of items within a variety of
